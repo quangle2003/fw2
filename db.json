@@ -1,0 +1,330 @@
+{
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$GUMBSQ2gtpZREOrpZ9PJmOc9HNaXyG9KrPHVmsK.JEWd7fuFIhYWm",
+      "phone": 987654321,
+      "role": 0,
+      "id": 1
+    },
+    {
+      "email": "moi@gmail.com",
+      "password": "$2a$10$qktTAcNXaiTB4ermAK3uPec.hM0ab9ZcQ07ojQLguBF7M2kOQTr/6",
+      "phone": 1234675454,
+      "role": 1,
+      "id": 2
+    },
+    {
+      "email": "user@gmail.com",
+      "password": "$2a$10$ES1Q6Q26mW.FxF4Q2IgJJe/7/6Anlmn.LLioe/pahrdgwVIivrvse",
+      "phone": 123456768,
+      "role": 1,
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Điện thoại"
+    },
+    {
+      "id": 2,
+      "name": "Máy tính bảng"
+    },
+    {
+      "id": 3,
+      "name": "Laptop"
+    },
+    {
+      "id": 4,
+      "name": "Âm thanh"
+    },
+    {
+      "name": "Sản phẩm khác",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 11 64GB I Chính hãng VN/A",
+      "originalPrice": "18000000",
+      "saleOffPrice": "10790000",
+      "contextSale": "[HOT] Thu cũ lên đời giá cao - Thủ tục nhanh - Trợ giá lên tới 1.000.000đ",
+      "rate": 5,
+      "quantityComment": 72,
+      "categoryId": 2,
+      "status": true,
+      "feature": "",
+      "description": "",
+      "img": "https://res.cloudinary.com/dinhlcph18273/image/upload/v1659785333/FW2/Rectangle_1_in6i8u.png"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 13 Pro Max 128GB | Chính hãng VN/A",
+      "originalPrice": "34990000",
+      "saleOffPrice": "27390000",
+      "contextSale": "Thu cũ lên đời - Trợ giá 1 triệu",
+      "rate": 4,
+      "quantityComment": 33,
+      "categoryId": 1,
+      "status": true,
+      "feature": "Màn hình Super Retina XDR 6.7 inch với ProMotion cho cảm giác nhanh nhạy hơn3\nChế độ Điện Ảnh làm tăng thêm độ sâu trường ảnh nông và tự động thay đổi tiêu cự trong video\nHệ thống camera chuyên nghiệp Telephoto, Wide và Ultra Wide 12MP; LiDAR Scanner; phạm vi thu phóng quang học 6x; chụp ảnh macro; Phong Cách Nhiếp Ảnh, video ProRes, HDR thông minh thế hệ 4, chế độ Ban Đêm, Apple ProRAW, khả năng quay video HDR Dolby Vision 4K",
+      "description": "Cần có gói cước dữ liệu. Mạng 5G chỉ khả dụng ở một số thị trường và được cung cấp qua một số nhà mạng. Tốc độ có thể thay đổi tùy địa điểm và nhà mạng. Để biết thông tin về hỗ trợ mạng 5G, vui lòng liên hệ nhà mạng và truy cập apple.com/iphone/cellular.\n\n2Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình. Truy cập apple.com/batteries để biết thêm thông tin.\n\n",
+      "img": "https://res.cloudinary.com/dinhlcph18273/image/upload/v1659785334/FW2/Rectangle_11_dolhuu.png"
+    },
+    {
+      "id": 3,
+      "name": "iPhone 12 Pro Max 128GB I Chính hãng VN/A",
+      "originalPrice": "32990000",
+      "saleOffPrice": "25590000",
+      "contextSale": "[HOT] Thu cũ lên đời giá cao - Thủ tục nhanh - Trợ giá lên tới 1.000.000đ và",
+      "rate": 5,
+      "quantityComment": 163,
+      "categoryId": 3,
+      "status": true,
+      "feature": "",
+      "description": "",
+      "img": "https://res.cloudinary.com/dinhlcph18273/image/upload/v1659785333/FW2/Rectangle_3_ontwdf.png"
+    },
+    {
+      "id": 4,
+      "name": "Samsung Galaxy S22 Ultra (8GB - 128GB)",
+      "originalPrice": "30990000",
+      "saleOffPrice": "25090000",
+      "contextSale": "Dịch vụ phòng chờ hạng thương gia tại sân bay và",
+      "rate": 5,
+      "quantityComment": 72,
+      "categoryId": 4,
+      "status": true,
+      "feature": "",
+      "description": "",
+      "img": "https://res.cloudinary.com/dinhlcph18273/image/upload/v1659785333/FW2/Rectangle_4_bovlwb.png"
+    },
+    {
+      "id": 5,
+      "name": "iPhone 13 128GB | Chính hãng VN/A",
+      "originalPrice": "24990000",
+      "saleOffPrice": "19590000",
+      "contextSale": "Thu cũ lên đời - Trợ giá 1 triệu",
+      "rate": 4.5,
+      "quantityComment": 72,
+      "categoryId": 1,
+      "status": true,
+      "feature": "",
+      "description": "",
+      "img": "https://res.cloudinary.com/dinhlcph18273/image/upload/v1659785333/FW2/Rectangle_5_wjgrqf.png"
+    },
+    {
+      "id": 6,
+      "name": "Xiaomi Redmi Note 11",
+      "originalPrice": "4690000",
+      "saleOffPrice": "3850000",
+      "contextSale": "Thu cũ đổi mới - Trợ giá đến 300.000đ",
+      "rate": 5,
+      "quantityComment": 72,
+      "categoryId": 2,
+      "status": true,
+      "feature": "",
+      "description": "",
+      "img": "https://res.cloudinary.com/dinhlcph18273/image/upload/v1659785334/FW2/Rectangle_6_hnuu9s.png"
+    },
+    {
+      "id": 7,
+      "name": "iPhone 12 64GB I Chính hãng VN/A",
+      "originalPrice": "22990000",
+      "saleOffPrice": "15990000",
+      "contextSale": "[HOT] Thu cũ lên đời giá cao - Thủ tục nhanh - Trợ giá lên tới 1.000.000đ",
+      "rate": 3,
+      "quantityComment": 72,
+      "categoryId": 3,
+      "status": true,
+      "feature": "",
+      "description": "",
+      "img": "https://res.cloudinary.com/dinhlcph18273/image/upload/v1659785332/FW2/Rectangle_dii0i5.png"
+    },
+    {
+      "id": 8,
+      "name": "Samsung Galaxy S22 Plus (8GB + 128GB)",
+      "originalPrice": "25990000",
+      "saleOffPrice": "20190000",
+      "contextSale": "Dịch vụ phòng chờ hạng thương gia tại sân bay và",
+      "rate": 3,
+      "quantityComment": 72,
+      "categoryId": 4,
+      "status": true,
+      "feature": "",
+      "description": "",
+      "img": "https://res.cloudinary.com/dinhlcph18273/image/upload/v1659785333/FW2/Rectangle_7_m01dv7.png"
+    },
+    {
+      "id": 9,
+      "name": "iPhone 11 128GB I Chính hãng VN/A",
+      "originalPrice": "19900000",
+      "saleOffPrice": "14190000",
+      "contextSale": "[HOT] Thu cũ lên đời giá cao - Thủ tục nhanh - Trợ giá lên tới 1.000.000đ",
+      "rate": 5,
+      "quantityComment": 35,
+      "categoryId": 1,
+      "status": true,
+      "feature": "",
+      "description": "",
+      "img": "https://res.cloudinary.com/dinhlcph18273/image/upload/v1659785333/FW2/Rectangle_8_qi43ll.png"
+    },
+    {
+      "id": 10,
+      "name": "Xiaomi Redmi Note 11 Pro",
+      "originalPrice": "7490000",
+      "saleOffPrice": "645000",
+      "contextSale": "Thu cũ đổi mới - Trợ giá đến 300.000đ",
+      "rate": 5,
+      "quantityComment": 5,
+      "categoryId": 2,
+      "status": true,
+      "feature": "",
+      "description": "",
+      "img": "https://res.cloudinary.com/dinhlcph18273/image/upload/v1659785334/FW2/Rectangle_13_p6lsky.png"
+    },
+    {
+      "id": 11,
+      "name": "Samsung Galaxy A73 (5G) 256GB",
+      "originalPrice": "12990000",
+      "saleOffPrice": "10690000",
+      "contextSale": "Thu cũ đổi mới - Trợ giá đến 300.000đ",
+      "rate": 5,
+      "quantityComment": 3,
+      "categoryId": 3,
+      "status": true,
+      "feature": "",
+      "description": "",
+      "img": "https://res.cloudinary.com/dinhlcph18273/image/upload/v1659785334/FW2/Rectangle_10_oov4w8.png"
+    },
+    {
+      "id": 12,
+      "name": "iPhone 13 Pro 128GB | Chính hãng VN/A",
+      "originalPrice": "31990000",
+      "saleOffPrice": "24990000",
+      "contextSale": "Thu cũ lên đời - Trợ giá 1 triệu",
+      "rate": 5,
+      "quantityComment": 3,
+      "categoryId": 4,
+      "status": true,
+      "feature": "",
+      "description": "",
+      "img": "https://res.cloudinary.com/dinhlcph18273/image/upload/v1659785333/FW2/Rectangle_2_yvtukn.png"
+    },
+    {
+      "id": 13,
+      "name": "OPPO Reno6 Z 5G",
+      "originalPrice": "9490000",
+      "saleOffPrice": "6790000",
+      "contextSale": "Thu cũ lên đời - Trợ giá 1 triệu",
+      "rate": 5,
+      "quantityComment": 3,
+      "categoryId": 1,
+      "status": true,
+      "feature": "",
+      "description": "",
+      "img": "https://res.cloudinary.com/dinhlcph18273/image/upload/v1659785334/FW2/Rectangle_12_esxcce.png"
+    },
+    {
+      "id": 14,
+      "name": "Xiaomi Redmi Note 11",
+      "originalPrice": "4690000",
+      "saleOffPrice": "3850000",
+      "contextSale": "Thu cũ đổi mới - Trợ giá đến 300.000đ",
+      "rate": 5,
+      "quantityComment": 11,
+      "categoryId": 2,
+      "status": true,
+      "feature": "",
+      "description": "",
+      "img": "https://res.cloudinary.com/dinhlcph18273/image/upload/v1659785334/FW2/Rectangle_9_sn4l2o.png"
+    },
+    {
+      "images": "C:\\fakepath\\anhhtus-logo 2 (2).png",
+      "description": "<p>sadadá</p>",
+      "name": "ấádasdasd",
+      "originalPrice": 22,
+      "saleOffPrice": 2,
+      "cateID": 1,
+      "id": 15,
+      "status": false,
+      "categoryId": 2,
+      "feature": "<p>ádasd</p>",
+      "especial": "<p>ádasdsd</p>",
+      "img": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1659891911/anhhtus/l8eanivkgrfyizmcxoq5.png"
+    },
+    {
+      "images": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1659877395/anhhtus/fxyxjwvrj111ikaboqqy.png",
+      "description": "sdasd",
+      "name": "323234",
+      "originalPrice": 22222,
+      "saleOffPrice": 233,
+      "cateID": 1,
+      "feature": "<p>234234</p><h1>Hádasdádal;sdk;alksd;lksad</h1>",
+      "id": 16,
+      "status": false
+    },
+    {
+      "images": "C:\\fakepath\\anhhtus-logo 2 (2).png",
+      "description": "<p>Năm 2022 hứa hẹn sẽ là một năm rất đáng trông đợi đối với những ai là fan của thương hiệu điện thoại Samsung. Mới đây, hãng sẽ tiếp tục cho ra mắt nhiều smartphone với sự cải tiến trong thiết kế và cấu hình, trong đó phải kể đến chiếc Samsung Galaxy A73 với nhiều cải tiến so với thế hệ trước. Vậy sản phẩm có gì nổi bật, giá bao nhiêu và liệu có nên mua không? Tìm hiểu ngay nhé!</p><p><br></p><h3>Đánh giá Samsung A73 - Hiệu năng mượt mà, chụp ảnh chuyên nghiệp</h3><p>Điện thoại cao cấp nhất dòng Galaxy A series sở hữu nhiều nâng cấp đáng giá so với thế hệ trước, từ ngoại hình cho đến hiệu năng, đặc biệt là hệ thống camera. Sau đây là những đánh giá chi tiết về chiếc</p><h3>Đánh giá Samsung A73 - Hiệu năng mượt mà, chụp ảnh chuyên nghiệp</h3><p>Trước khi mua bất kỳ chiếc điện thoại nào, người dùng cũng sẽ quan tâm đến thiết kế sản phẩm trước. Với phiên bản A73, Samsung đã tạo nên một chiếc smartphone với vẻ ngoài mang đến cảm giác sang trọng và tinh tế.</p><p>Samsung Galaxy A73 được thiết kế gọn nhẹ với tiêu chí đáp ứng khả năng mang theo để tiện đi lại cho người dùng. Giờ đây, bạn có thể mang theo chiếc smartphone bên cạnh đến bất cứ đâu, bất cứ lúc nào.</p><p>Kích thước và trọng lượng của chiếc điện thoại rất vừa phải và dĩ nhiên sẽ không chiếm quá nhiều diện tích trong túi xách và có thể di chuyển dễ dàng.</p>",
+      "name": "san sham a",
+      "originalPrice": 8990000,
+      "saleOffPrice": 7990000,
+      "categoryId": 1,
+      "feature": "<p>Màn hình Super Retina XDR 6.7 inch với ProMotion cho cảm giác nhanh nhạy hơn3 Chế độ Điện Ảnh làm tăng thêm độ sâu trường ảnh nông và tự động thay đổi tiêu cự trong video Hệ thống camera chuyên nghiệp Telephoto, Wide và Ultra Wide 12MP; LiDAR Scanner; phạm vi thu phóng quang học 6x; chụp ảnh macro; Phong Cách Nhiếp Ảnh, video ProRes, HDR thông minh thế hệ 4, chế độ Ban Đêm, Apple ProRAW, khả năng quay video HDR Dolby Vision 4K</p>",
+      "especial": "<p>Camera chất lượng, bắt trọn từng khoảng khắc - Cụm 4 camera với cảm biến chính lên đến 108 MP</p><p>Thưởng thức không gian giải trí cực đỉnh - Màn hình lớn 6.7 inch, độ phân giải Full HD+, 120Hz mượt mà</p><p>Cấu hình Galaxy A73 5G được nâng cấp mạnh với chip Snapdragon 778G, RAM lên đến 8 GB</p><p>Chiến game thoải mái không lo gián đoạn - Viên pin lớn 5000 mAh, hỗ trợ sạc nhanh 25 W</p>",
+      "id": 17,
+      "status": false,
+      "img": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1659891937/anhhtus/bolu7wej1d8fkv2bncwy.png"
+    },
+    {
+      "images": "https://scontent.fhan14-1.fna.fbcdn.net/v/t1.15752-9/298266913_462136092428728_6498420145747491863_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=NxFMWl1NT0cAX9ZHuOW&_nc_ht=scontent.fhan14-1.fna&oh=03_AVJJdttFcrkYS_pnjv2GY8Z3GsBKI7kfWqMOc4phNcCDxg&oe=63230222",
+      "description": "<h3>Kiểu dáng sang trọng, nhỏ gọn</h3><p><strong>Lò Nướng Chân Không Điện Tử Lock&amp;Lock EJF291BLK</strong>&nbsp;sở hữu thiết kế nhỏ gọn nhưng vẫn sang trọng, màu đen hiện đại, phù hợp với bất kỳ không gian căn bếp nào. Cửa sổ sản phẩm làm bằng kính cường lực trong suốt, bền và an toàn khi sử dụng, giúp bạn dễ dàng quan sát các món ăn được nấu bên trong. Bên cạnh đó, Lock&amp;Lock EJF291BLK có bảng điều khiển cảm ứng, dễ dàng sử dụng, bạn có thể tùy chỉnh thời gian và nhiệt độ cho phù hợp với từng món ăn khác nhau.</p><h3>Dung tích 10L, thỏa mái sử dụng</h3><p>Lock&amp;Lock EJF291BLK với dung tích 10L là lựa chọn tuyệt vời đối với những gia đình có ít thành viên, có thể sử dụng cho tất cả các loại thịt cá và rau củ. Các chức năng của lò được điều khiển dễ dàng thông qua núm vặn, rất phù hợp với những người mới bắt đầu sử dụng lò nướng hiện đại.</p><h3>Công nghệ làm chín thực phẩm hiện đại</h3><p>Sản phẩm làm chín thực phẩm bằng các luồng không khí lốc xoáy thay vì dầu nóng, giúp bạn chế biến món ăn lành mạnh hơn. Sản phẩm còn được trang bị bộ lọc mùi và khói. Là sự tổng hợp của nhiều thiết bị và dụng cụ nấu nướng, với bộ hẹn giờ kỹ thuật số được tích hợp chế độ tự động tắt.</p><h3>Đa dạng chức năng nấu</h3><p>Có tới tận 8 menu nấu mặc định, bạn có thể sử dụng sản phẩm để chế biến nhiều món ăn khác nhau. Có thêm các phụ kiện đi kèm khi mua, bạn có thể chọn các phụ kiện nấu phù hợp với nguyên liệu.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p><br></p>",
+      "name": "Lò Nướng Chân Không Điện Tử Lock&Lock EJF291BLK 10L - Hàng Chính Hãng",
+      "originalPrice": 6180000,
+      "saleOffPrice": 2899000,
+      "categories": 5,
+      "feature": "<h3>Kiểu dáng sang trọng, nhỏ gọn</h3><p><strong>Lò Nướng Chân Không Điện Tử Lock&amp;Lock EJF291BLK</strong>&nbsp;sở hữu thiết kế nhỏ gọn nhưng vẫn sang trọng, màu đen hiện đại, phù hợp với bất kỳ không gian căn bếp nào. Cửa sổ sản phẩm làm bằng kính cường lực trong suốt, bền và an toàn khi sử dụng, giúp bạn dễ dàng quan sát các món ăn được nấu bên trong. Bên cạnh đó, Lock&amp;Lock EJF291BLK có bảng điều khiển cảm ứng, dễ dàng sử dụng, bạn có thể tùy chỉnh thời gian và nhiệt độ cho phù hợp với từng món ăn khác nhau.</p><h3>Dung tích 10L, thỏa mái sử dụng</h3><p>Lock&amp;Lock EJF291BLK với dung tích 10L là lựa chọn tuyệt vời đối với những gia đình có ít thành viên, có thể sử dụng cho tất cả các loại thịt cá và rau củ. Các chức năng của lò được điều khiển dễ dàng thông qua núm vặn, rất phù hợp với những người mới bắt đầu sử dụng lò nướng hiện đại.</p><h3>Công nghệ làm chín thực phẩm hiện đại</h3><p>Sản phẩm làm chín thực phẩm bằng các luồng không khí lốc xoáy thay vì dầu nóng, giúp bạn chế biến món ăn lành mạnh hơn. Sản phẩm còn được trang bị bộ lọc mùi và khói. Là sự tổng hợp của nhiều thiết bị và dụng cụ nấu nướng, với bộ hẹn giờ kỹ thuật số được tích hợp chế độ tự động tắt.</p><h3>Đa dạng chức năng nấu</h3><p>Có tới tận 8 menu nấu mặc định, bạn có thể sử dụng sản phẩm để chế biến nhiều món ăn khác nhau. Có thêm các phụ kiện đi kèm khi mua, bạn có thể chọn các phụ kiện nấu phù hợp với nguyên liệu.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p><br></p>",
+      "especial": "<ul><li>Lò Nướng Chân Không Điện Tử Lock&amp;Lock EJF291BLK&nbsp;sở hữu thiết kế nhỏ gọn nhưng vẫn sang trọng, màu đen hiện đại, phù hợp với bất kỳ không gian căn bếp nào. Cửa sổ sản phẩm làm bằng kính cường lực trong suốt, bền và an toàn khi sử dụng, giúp bạn dễ dàng quan sát các món ăn được nấu bên trong. </li><li>Kết nối liền mạch giữa các thiết bị, trình chiếu không dây nâng tầm hiệu quả</li><li>Thiết kế thanh lịch, tối giản hoà hợp với mọi không gian làm việc.</li></ul>",
+      "id": 18
+    }
+  ],
+  "order": [
+    {
+      "products": [
+        {
+          "userId": 1,
+          "name": "iPhone 11 128GB I Chính hãng VN/A",
+          "total_price": 28380000,
+          "quantity": 2,
+          "price": 14190000,
+          "oriPrice": 19900000,
+          "id": 9,
+          "img": "https://res.cloudinary.com/dinhlcph18273/image/upload/v1659785333/FW2/Rectangle_8_qi43ll.png"
+        },
+        {
+          "userId": 1,
+          "name": "iPhone 13 Pro Max 128GB | Chính hãng VN/A",
+          "total_price": 82170000,
+          "quantity": 3,
+          "price": 27390000,
+          "oriPrice": 34990000,
+          "id": 2,
+          "img": "https://res.cloudinary.com/dinhlcph18273/image/upload/v1659785334/FW2/Rectangle_11_dolhuu.png"
+        }
+      ],
+      "infor": {
+        "name": "Lê Công Định",
+        "email": "dinhlcph18273@gmail.com",
+        "phone": "0372011308",
+        "address": "Đan Phượng",
+        "note": "note"
+      },
+      "status": 1,
+      "total": 110550000,
+      "id": 3
+    }
+  ]
+}
